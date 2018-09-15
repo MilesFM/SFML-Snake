@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+[Bb]in/
+[Oo]bj/
+data.txt
+*.depend
+*.layout
